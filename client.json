@@ -1,0 +1,17 @@
+{
+  "client_id": "https://henriquemartinelli.github.io/panorama-client/client.json",
+  "client_name": "Minhas Finanças (painel pessoal)",
+  "client_uri": "https://henriquemartinelli.github.io/panorama-client/",
+  "redirect_uris": [
+    "http://localhost:8765/callback",
+    "http://127.0.0.1:8765/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token",
+    "urn:ietf:params:oauth:grant-type:device_code"
+  ],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "openid profile email offline_access"
+}
