@@ -1,5 +1,5 @@
 {
-  "client_id": "https://henriquemartinelli.github.io/panorama-client/client.json",
+  "client_id": "https://raw.githubusercontent.com/HenriqueMartinelli/panorama-client/main/client.json",
   "client_name": "Minhas Finanças (painel pessoal)",
   "client_uri": "https://henriquemartinelli.github.io/panorama-client/",
   "redirect_uris": [
